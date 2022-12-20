@@ -1,0 +1,23 @@
+{
+  "name": "@esconfig/ts",
+  "version": "1.0.0",
+  "description": "Universal tsconfig settings",
+  "main": "base.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esconfig/ts.git"
+  },
+  "keywords": [
+    "typescript",
+    "tsconfig"
+  ],
+  "author": "2046",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/esconfig/ts/issues"
+  },
+  "homepage": "https://github.com/esconfig/ts#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}

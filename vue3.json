@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "display": "Vue.js 3.x Tsconfig",
+
+  "extends": "./base.json",
+  "compilerOptions": {
+    "jsx": "preserve",
+    "isolatedModules": true,
+    "preserveValueImports": true,
+    "importsNotUsedAsValues": "error",
+    "lib": ["ESNext", "DOM", "DOM.Iterable"]
+  }
+}
